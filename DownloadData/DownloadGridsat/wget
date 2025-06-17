@@ -1,0 +1,1 @@
+wget -r-np -nH -nc https://www.ncei.noaa.gov/data/geostationary-ir-channel-brightness-temperature-gridsat-bl/access/2023/
